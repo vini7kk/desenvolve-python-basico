@@ -4,14 +4,6 @@
 
 #entrada de dados
 valor = int(input("qual valor do saque?"))
-n1 = 100
-n2 = 50
-n3 = 20
-n4 = 10
-n5 = 5
-n6 = 2
-n7 = 1
-
 #processamento
 
 nts100 = valor // 100
@@ -42,4 +34,5 @@ print(f"Notas de 20: {nts20}")
 print(f"Notas de 10: {nts10}")
 print(f"Notas de 5: {nts5}")
 print(f"Notas de 2: {nts2}")
+
 print(f"Notas de 1: {nts1}")
