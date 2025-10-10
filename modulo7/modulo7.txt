@@ -1,0 +1,2 @@
+-introdução a strings
+-acesso de arquivos em python
